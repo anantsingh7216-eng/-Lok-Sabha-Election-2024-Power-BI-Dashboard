@@ -67,7 +67,6 @@ EVM vs postal vote share
 
 Anant Singh
 
-GitHub: @your-username
-LinkedIn: your-link
+GitHub:anantsingh7216-eng
 
 ⭐ If you found this useful, give the repo a star!
